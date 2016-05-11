@@ -7,9 +7,9 @@ var development = 1;						// 1 this app is in development, 0 this app is in prod
 /*-------------- Standard App Variables ---------------*/
 /*-----------------------------------------------------*/
 
-var appname = "apptemplateargs";				// This app's name / folder name which must be unique
-var apptitle = "App Template with Arguments";			// This display title written to the HTML
-var connect_link = "http://factory.snapback-apps.com/app/app-template-with-arguments/";     // The link to your App's Connect Page in the SnapBack Apps Factory 
+var appname = "mypcoptimize";				// This app's name / folder name which must be unique
+var apptitle = "Optimize My PC";			// This display title written to the HTML
+var connect_link = "http://factory.snapback-apps.com/app/optimize-my-pc/";     // The link to your App's Connect Page in the SnapBack Apps Factory 
 var group_name ="App Helpers";				// The group or individual responsible for this app
 
 /*-----------------------------------------------------*/
